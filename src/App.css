@@ -50,6 +50,15 @@ a{
   -ms-transition: background-color 0.5s;
   -o-transition: background-color 0.5s;
 }
+.btn_contact_cv{
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+}
+.btn_contact{
+  margin-right: 20px;
+}
 .btn-outline-primary {
   color: var(--primary);
   background-color: var(--white);

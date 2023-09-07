@@ -14,13 +14,14 @@ export default function HeroSection() {
           I am highly motivated to explore the vast world of IT and eager to collaborate on an IT project with you. Let's work together and take on new challenges!
           </p><br />
         </div>
+        <div className="btn_contact_cv">
         <Link
             spy={true}
             smooth={true}
             offset={-70}
             duration={500}
             to="Contact"
-            className="btn btn-primary"
+            className="btn btn-primary btn_contact"
         >
           Contact Me
         </Link>    
@@ -28,6 +29,7 @@ export default function HeroSection() {
         <a href="./CV/AlphaJedidiaCV.pdf" download="AlphaJedidiaCV.pdf">
           <button className="btn btn-outline-primary">Download CV</button>
         </a>
+        </div>
 
       </div>
       <div className="hero--section--img">
