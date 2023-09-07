@@ -41,7 +41,7 @@ export default function MyPortfolio() {
                 <h3 className="portfolio--section--title">{item.title}</h3>
                 <p className="text-md">{item.description}</p>
               </div>
-              <a href="https://github.com/alphajedidia/InventoryManagement" target="_blank">
+              <a href={item.url} target="_blank">
               <p className="text-sm portfolio--link">
                 {item.link}
                 <svg

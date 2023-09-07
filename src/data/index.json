@@ -30,6 +30,7 @@
       "id": "1",
       "src": "./img/asp.net_core.jpg",
       "title": "Inventory Management",
+      "url" : "https://github.com/alphajedidia/InventoryManagement",
       "description": "Backend API Description Inventory Management is a simple backend Web API that helps businesses manage their inventory and stock levels. The API provides easy-to-use endpoints for adding, updating, and deleting products, as well as recording incoming and outgoing stock.",
       "link": "View In Github"
     },
@@ -37,6 +38,7 @@
       "id": "2",
       "src": "./img/php.png",
       "title": "ThesisManagementSystem",
+      "url" : "https://github.com/alphajedidia/ThesisManagementSystem",
       "description": "This repository contains a PHP project for a thesis management system. The system is designed to handle the management of thesis defenses, including student information, professor details, organization details, and the thesis defense process.",
       "link": "View In Github"
     },
@@ -44,6 +46,7 @@
       "id": "3",
       "src": "./img/java.jpg",
       "title": "HotelRoomReservationSystem",
+      "url" : "https://github.com/alphajedidia/HotelRoomReservationSystem",
       "description": "This repository contains a Java project for an hotel room reservation system. The system is designed to handle the management of room reservations, including maintaining room availability, customer information, and generating receipts.",
       "link": "View In Github"
     }
