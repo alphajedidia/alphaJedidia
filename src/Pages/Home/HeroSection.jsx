@@ -25,7 +25,7 @@ export default function HeroSection() {
           Contact Me
         </Link>    
         <span>  </span>
-        <a href="your_cv.pdf" download="Alpha_Jedidia_CV.pdf">
+        <a href="./CV/AlphaJedidiaCV.pdf" download="AlphaJedidiaCV.pdf">
           <button className="btn btn-outline-primary">Download CV</button>
         </a>
 
